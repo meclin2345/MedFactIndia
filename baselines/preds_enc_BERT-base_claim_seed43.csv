@@ -1,0 +1,413 @@
+row,id,gold,pred
+1,MFCI-0002,False,Mostly False
+5,MFCI-0006,False,Mostly False
+22,MFCI-0023,False,False
+25,MFCI-0026,False,False
+26,MFCI-0027,False,False
+27,MFCI-0028,False,False
+30,MFCI-0031,Mostly False,False
+33,MFCI-0034,False,False
+34,MFCI-0035,Mostly False,Mostly False
+38,MFCI-0039,False,False
+70,MFCI-0071,Mostly False,Mostly False
+73,MFCI-0074,False,Mostly False
+80,MFCI-0081,False,False
+88,MFCI-0089,Mostly False,False
+91,MFCI-0092,Mostly False,Mostly False
+93,MFCI-0094,Mostly False,Mostly False
+111,MFCI-0112,Mostly False,False
+123,MFCI-0124,Partly True,Mostly False
+135,MFCI-0136,Mostly False,False
+154,MFCI-0155,False,False
+158,MFCI-0159,False,False
+161,MFCI-0162,False,False
+165,MFCI-0166,False,False
+169,MFCI-0170,Partly True,False
+171,MFCI-0172,False,False
+178,MFCI-0179,Mostly False,Partly True
+182,MFCI-0183,Partly True,Mostly False
+193,MFCI-0194,False,False
+200,MFCI-0201,False,False
+206,MFCI-0207,False,False
+207,MFCI-0208,Mostly False,False
+210,MFCI-0211,Mostly False,False
+215,MFCI-0216,False,False
+227,MFCI-0228,Mostly False,False
+229,MFCI-0230,Mostly False,Partly True
+232,MFCI-0233,Partly True,Partly True
+235,MFCI-0236,False,Mostly False
+241,MFCI-0242,False,False
+246,MFCI-0247,Mostly False,Mostly False
+259,MFCI-0260,False,Partly True
+269,MFCI-0270,False,False
+274,MFCI-0275,False,Mostly False
+277,MFCI-0278,Partly True,Partly True
+282,MFCI-0283,Mostly False,Mostly False
+286,MFCI-0287,False,Mostly False
+287,MFCI-0288,False,False
+303,MFCI-0304,Mostly False,Mostly False
+312,MFCI-0313,Partly True,Mostly False
+336,MFCI-0337,Mostly False,False
+338,MFCI-0339,Partly True,False
+341,MFCI-0342,Mostly False,Mostly False
+346,MFCI-0347,False,False
+347,MFCI-0348,False,Mostly False
+362,MFCI-0363,Mostly False,False
+363,MFCI-0364,False,False
+365,MFCI-0366,False,Mostly False
+371,MFCI-0372,False,Mostly False
+376,MFCI-0377,False,Partly True
+377,MFCI-0378,False,Mostly False
+390,MFCI-0391,False,False
+408,MFCI-0409,Mostly False,Mostly False
+429,MFCI-0430,Mostly False,False
+439,MFCI-0440,Mostly False,Mostly False
+441,MFCI-0442,Mostly False,Mostly False
+451,MFCI-0452,Mostly False,False
+455,MFCI-0456,False,False
+462,MFCI-0463,Partly True,False
+463,MFCI-0464,Mostly False,Mostly False
+468,MFCI-0469,False,False
+478,MFCI-0479,False,False
+495,MFCI-0496,False,Mostly False
+502,MFCI-0503,False,Mostly False
+512,MFCI-0513,False,False
+517,MFCI-0518,Mostly False,False
+522,MFCI-0523,False,Partly True
+536,MFCI-0537,Mostly False,Mostly False
+543,MFCI-0544,False,Partly True
+549,MFCI-0550,False,Mostly False
+563,MFCI-0564,False,Mostly False
+568,MFCI-0569,False,False
+572,MFCI-0573,Mostly False,Mostly False
+575,MFCI-0576,False,False
+602,MFCI-0603,Partly True,False
+605,MFCI-0606,False,Partly True
+609,MFCI-0610,False,Mostly False
+630,MFCI-0631,Mostly False,False
+632,MFCI-0633,Mostly False,False
+633,MFCI-0634,Mostly False,Mostly False
+638,MFCI-0639,Mostly False,False
+639,MFCI-0640,Mostly False,False
+668,MFCI-0669,Mostly False,Mostly False
+672,MFCI-0673,Partly True,False
+673,MFCI-0674,False,Mostly False
+674,MFCI-0675,False,Mostly False
+690,MFCI-0691,False,Mostly False
+699,MFCI-0700,False,Mostly False
+705,MFCI-0706,False,Mostly False
+723,MFCI-0724,False,Mostly False
+724,MFCI-0725,False,Mostly False
+726,MFCI-0727,Mostly False,False
+728,MFCI-0729,False,Mostly False
+734,MFCI-0735,False,Partly True
+749,MFCI-0750,Mostly False,Partly True
+751,MFCI-0752,False,False
+765,MFCI-0766,Mostly False,Mostly False
+779,MFCI-0780,Mostly False,False
+785,MFCI-0786,False,False
+786,MFCI-0787,Partly True,False
+794,MFCI-0795,False,False
+800,MFCI-0801,False,Mostly False
+807,MFCI-0808,Partly True,Mostly False
+812,MFCI-0813,Mostly False,False
+818,MFCI-0819,False,Mostly False
+823,MFCI-0824,Mostly False,False
+834,MFCI-0835,False,Mostly False
+840,MFCI-0841,False,Mostly False
+844,MFCI-0845,False,False
+856,MFCI-0857,False,False
+858,MFCI-0859,Mostly False,Partly True
+867,MFCI-0868,Mostly False,Mostly False
+875,MFCI-0876,Mostly False,Mostly False
+881,MFCI-0882,False,Partly True
+890,MFCI-0891,False,Mostly False
+902,MFCI-0903,False,False
+915,MFCI-0916,False,Mostly False
+920,MFCI-0921,Mostly False,Partly True
+928,MFCI-0929,Partly True,False
+937,MFCI-0938,Mostly False,Mostly False
+942,MFCI-0943,False,False
+946,MFCI-0947,False,False
+957,MFCI-0958,False,Partly True
+962,MFCI-0963,False,False
+967,MFCI-0968,Mostly False,Mostly False
+998,MFCI-0999,False,False
+1003,MFCI-1004,False,Mostly False
+1005,MFCI-1006,Mostly False,False
+1020,MFCI-1021,Mostly False,Partly True
+1027,MFCI-1028,False,False
+1032,MFCI-1033,Mostly False,Mostly False
+1035,MFCI-1036,False,Mostly False
+1037,MFCI-1038,False,Mostly False
+1074,MFCI-1075,False,Mostly False
+1076,MFCI-1077,Mostly False,Partly True
+1077,MFCI-1078,Mostly False,Mostly False
+1087,MFCI-1088,Mostly False,Mostly False
+1104,MFCI-1105,False,False
+1109,MFCI-1110,Mostly False,False
+1111,MFCI-1112,Partly True,Mostly False
+1112,MFCI-1113,Mostly False,Partly True
+1115,MFCI-1116,False,False
+1120,MFCI-1121,Partly True,False
+1126,MFCI-1127,False,False
+1148,MFCI-1149,False,Partly True
+1178,MFCI-1179,Mostly False,Partly True
+1179,MFCI-1180,Mostly False,Mostly False
+1180,MFCI-1181,False,Partly True
+1181,MFCI-1182,False,Mostly False
+1183,MFCI-1184,False,False
+1189,MFCI-1190,Mostly False,Mostly False
+1190,MFCI-1191,False,Mostly False
+1191,MFCI-1192,False,False
+1192,MFCI-1193,False,False
+1202,MFCI-1203,False,False
+1204,MFCI-1205,Mostly False,Partly True
+1206,MFCI-1207,False,False
+1209,MFCI-1210,False,Partly True
+1212,MFCI-1213,False,Mostly False
+1232,MFCI-1233,Mostly False,Mostly False
+1243,MFCI-1244,Mostly False,Mostly False
+1245,MFCI-1246,Partly True,False
+1249,MFCI-1250,Mostly False,Partly True
+1258,MFCI-1259,Mostly False,False
+1261,MFCI-1262,Partly True,Mostly False
+1262,MFCI-1263,Mostly False,Mostly False
+1270,MFCI-1271,False,Partly True
+1280,MFCI-1281,False,False
+1284,MFCI-1285,False,Mostly False
+1289,MFCI-1290,False,False
+1303,MFCI-1304,False,False
+1305,MFCI-1306,False,Mostly False
+1312,MFCI-1313,False,Mostly False
+1324,MFCI-1325,False,False
+1344,MFCI-1345,Mostly False,Mostly False
+1360,MFCI-1361,Partly True,Partly True
+1375,MFCI-1376,Partly True,Mostly False
+1377,MFCI-1378,Mostly False,Mostly False
+1380,MFCI-1381,False,Mostly False
+1382,MFCI-1383,Partly True,Mostly False
+1393,MFCI-1394,False,Mostly False
+1394,MFCI-1395,Mostly False,False
+1406,MFCI-1407,False,False
+1420,MFCI-1421,Mostly False,False
+1424,MFCI-1425,False,False
+1425,MFCI-1426,Mostly False,False
+1426,MFCI-1427,Mostly False,Mostly False
+1431,MFCI-1432,False,False
+1446,MFCI-1447,False,Partly True
+1453,MFCI-1454,False,False
+1456,MFCI-1457,Partly True,Mostly False
+1457,MFCI-1458,Mostly False,Mostly False
+1458,MFCI-1459,Mostly False,Partly True
+1461,MFCI-1462,False,False
+1462,MFCI-1463,Mostly False,Mostly False
+1478,MFCI-1479,False,Mostly False
+1495,MFCI-1496,False,False
+1498,MFCI-1499,Mostly False,Partly True
+1503,MFCI-1504,False,Mostly False
+1508,MFCI-1509,Mostly False,Mostly False
+1509,MFCI-1510,False,False
+1526,MFCI-1527,Mostly False,Mostly False
+1541,MFCI-1542,Mostly False,Mostly False
+1542,MFCI-1543,Mostly False,False
+1544,MFCI-1545,Mostly False,Mostly False
+1558,MFCI-1559,False,Mostly False
+1561,MFCI-1562,False,False
+1563,MFCI-1564,False,False
+1567,MFCI-1568,Partly True,False
+1575,MFCI-1576,False,False
+1581,MFCI-1582,False,False
+1598,MFCI-1599,False,False
+1601,MFCI-1602,False,False
+1610,MFCI-1611,False,False
+1629,MFCI-1630,False,Partly True
+1647,MFCI-1648,Mostly False,False
+1655,MFCI-1656,False,False
+1666,MFCI-1667,Mostly False,False
+1676,MFCI-1677,False,False
+1689,MFCI-1690,Partly True,False
+1698,MFCI-1699,Mostly False,Partly True
+1700,MFCI-1701,False,False
+1704,MFCI-1705,Mostly False,Mostly False
+1713,MFCI-1714,False,False
+1730,MFCI-1731,Partly True,Mostly False
+1750,MFCI-1751,False,Mostly False
+1754,MFCI-1755,False,False
+1757,MFCI-1758,False,Mostly False
+1781,MFCI-1782,False,Partly True
+1792,MFCI-1793,Mostly False,False
+1796,MFCI-1797,False,False
+1809,MFCI-1810,Partly True,Mostly False
+1816,MFCI-1818,False,Mostly False
+1824,MFCI-1826,False,Mostly False
+1835,MFCI-1837,False,Partly True
+1847,MFCI-1849,Mostly False,False
+1849,MFCI-1851,False,Mostly False
+1851,MFCI-1853,Mostly False,Partly True
+1854,MFCI-1856,False,Mostly False
+1856,MFCI-1858,False,Mostly False
+1859,MFCI-1861,False,Mostly False
+1863,MFCI-1865,False,False
+1864,MFCI-1866,Mostly False,Mostly False
+1875,MFCI-1877,False,Mostly False
+1876,MFCI-1878,Mostly False,Mostly False
+1881,MFCI-1883,Mostly False,Partly True
+1886,MFCI-1888,False,False
+1892,MFCI-1894,Mostly False,Mostly False
+1897,MFCI-1899,Mostly False,Mostly False
+1909,MFCI-1911,False,Mostly False
+1911,MFCI-1913,Mostly False,Mostly False
+1912,MFCI-1914,Mostly False,Partly True
+1917,MFCI-1919,False,False
+1919,MFCI-1921,Mostly False,False
+1930,MFCI-1932,Mostly False,Partly True
+1931,MFCI-1933,False,False
+1941,MFCI-1943,False,Mostly False
+1945,MFCI-1947,Mostly False,Mostly False
+1947,MFCI-1949,Mostly False,Mostly False
+1948,MFCI-1950,False,Mostly False
+1952,MFCI-1954,False,False
+1954,MFCI-1956,False,Partly True
+1956,MFCI-1958,Mostly False,Partly True
+1960,MFCI-1962,Mostly False,Mostly False
+1965,MFCI-1967,False,Mostly False
+1977,MFCI-1979,False,Mostly False
+1979,MFCI-1981,False,False
+1981,MFCI-1983,Partly True,Mostly False
+1983,MFCI-1985,Mostly False,Mostly False
+1985,MFCI-1987,Mostly False,Mostly False
+1990,MFCI-1992,Mostly False,False
+1991,MFCI-1993,Partly True,Mostly False
+1993,MFCI-1995,False,Mostly False
+1996,MFCI-1998,Partly True,Partly True
+1997,MFCI-1999,Mostly False,Mostly False
+2018,MFCI-2020,False,False
+2028,MFCI-2030,Mostly False,Partly True
+2032,MFCI-2034,Partly True,Mostly False
+2033,MFCI-2035,Mostly False,Mostly False
+2038,MFCI-2040,False,False
+2050,MFCI-2052,False,False
+2055,MFCI-2057,Mostly False,Mostly False
+2069,MFCI-2071,False,Mostly False
+2082,MFCI-2084,False,Mostly False
+2085,MFCI-2087,False,False
+2090,MFCI-2092,False,False
+2099,MFCI-2101,Mostly False,Mostly False
+2114,MFCI-2116,False,Mostly False
+2115,MFCI-2117,False,Mostly False
+2117,MFCI-2119,Partly True,Partly True
+2118,MFCI-2120,Mostly False,Partly True
+2124,MFCI-2126,Mostly False,Mostly False
+2128,MFCI-2130,False,False
+2146,MFCI-2148,False,Mostly False
+2149,MFCI-2151,Mostly False,Mostly False
+2153,MFCI-2155,Partly True,Mostly False
+2171,MFCI-2173,Mostly False,Mostly False
+2173,MFCI-2175,Partly True,Partly True
+2184,MFCI-2186,False,Mostly False
+2187,MFCI-2189,Mostly False,False
+2188,MFCI-2190,Mostly False,False
+2197,MFCI-2199,False,False
+2201,MFCI-2203,False,False
+2206,MFCI-2208,False,False
+2208,MFCI-2210,False,Mostly False
+2216,MFCI-2218,False,False
+2218,MFCI-2220,Mostly False,False
+2220,MFCI-2222,False,False
+2233,MFCI-2235,False,False
+2245,MFCI-2247,Partly True,Mostly False
+2247,MFCI-2249,False,False
+2256,MFCI-2258,Partly True,Partly True
+2265,MFCI-2267,Mostly False,Mostly False
+2271,MFCI-2273,Mostly False,Mostly False
+2284,MFCI-2286,False,False
+2285,MFCI-2287,Mostly False,False
+2289,MFCI-2291,Mostly False,Mostly False
+2291,MFCI-2293,False,False
+2292,MFCI-2294,Mostly False,False
+2302,MFCI-2304,False,False
+2319,MFCI-2321,False,False
+2322,MFCI-2324,Mostly False,Mostly False
+2323,MFCI-2325,Mostly False,False
+2327,MFCI-2329,Partly True,False
+2333,MFCI-2335,False,False
+2336,MFCI-2338,Partly True,False
+2338,MFCI-2340,False,Mostly False
+2339,MFCI-2341,Partly True,Partly True
+2341,MFCI-2343,False,False
+2345,MFCI-2347,Mostly False,Mostly False
+2348,MFCI-2350,Mostly False,Mostly False
+2349,MFCI-2351,Mostly False,Partly True
+2356,MFCI-2358,False,Partly True
+2359,MFCI-2361,False,False
+2361,MFCI-2363,False,False
+2363,MFCI-2365,Mostly False,False
+2364,MFCI-2366,False,Partly True
+2374,MFCI-2376,Mostly False,False
+2381,MFCI-2383,Mostly False,False
+2382,MFCI-2384,False,Mostly False
+2386,MFCI-2388,False,False
+2392,MFCI-2394,Mostly False,Mostly False
+2402,MFCI-2404,Partly True,Mostly False
+2412,MFCI-2414,False,Partly True
+2419,MFCI-2421,False,False
+2422,MFCI-2424,Mostly False,False
+2426,MFCI-2428,False,Partly True
+2429,MFCI-2431,Mostly False,Mostly False
+2443,MFCI-2445,Mostly False,False
+2457,MFCI-2459,False,False
+2463,MFCI-2465,False,False
+2466,MFCI-2468,Mostly False,Partly True
+2478,MFCI-2480,False,Partly True
+2479,MFCI-2481,False,False
+2489,MFCI-2491,Mostly False,False
+2490,MFCI-2492,False,False
+2500,MFCI-2502,Mostly False,Mostly False
+2504,MFCI-2506,False,Partly True
+2508,MFCI-2510,False,False
+2514,MFCI-2516,False,False
+2519,MFCI-2521,False,False
+2540,MFCI-2542,False,False
+2542,MFCI-2544,False,Partly True
+2543,MFCI-2545,False,False
+2546,MFCI-2548,False,False
+2548,MFCI-2550,Mostly False,Mostly False
+2550,MFCI-2552,False,False
+2552,MFCI-2554,False,Mostly False
+2556,MFCI-2558,False,Partly True
+2575,MFCI-2577,False,False
+2583,MFCI-2585,False,Partly True
+2585,MFCI-2587,False,False
+2589,MFCI-2591,False,False
+2590,MFCI-2592,False,Partly True
+2591,MFCI-2593,False,Mostly False
+2601,MFCI-2603,False,False
+2602,MFCI-2604,False,Mostly False
+2603,MFCI-2605,Mostly False,Mostly False
+2605,MFCI-2607,Partly True,Mostly False
+2616,MFCI-2618,False,False
+2617,MFCI-2619,False,Mostly False
+2620,MFCI-2622,Mostly False,Partly True
+2623,MFCI-2625,Mostly False,Partly True
+2625,MFCI-2627,False,False
+2639,MFCI-2641,Mostly False,False
+2640,MFCI-2642,False,False
+2647,MFCI-2649,False,False
+2648,MFCI-2650,Mostly False,False
+2658,MFCI-2660,False,Partly True
+2659,MFCI-2661,Mostly False,Partly True
+2666,MFCI-2668,Mostly False,False
+2680,MFCI-2682,Mostly False,False
+2683,MFCI-2685,False,False
+2685,MFCI-2687,False,False
+2686,MFCI-2688,False,Mostly False
+2690,MFCI-2692,Mostly False,Partly True
+2701,MFCI-2703,False,False
+2704,MFCI-2706,False,Mostly False
+2706,MFCI-2708,False,False
+2712,MFCI-2714,Mostly False,Mostly False
+2720,MFCI-2722,False,False
+2739,MFCI-2741,False,Mostly False
+2740,MFCI-2742,Mostly False,False
+2743,MFCI-2745,False,Partly True

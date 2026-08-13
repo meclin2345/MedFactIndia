@@ -1,0 +1,652 @@
+{
+  "BERT-base [claim] seed42": {
+    "n": 412,
+    "acc": 0.5437,
+    "macro_f1": 0.4486,
+    "f1_false": 0.6429,
+    "f1_mostly_false": 0.4675,
+    "f1_partly_true": 0.2353,
+    "cm": [
+      [
+        144,
+        76,
+        8
+      ],
+      [
+        60,
+        72,
+        13
+      ],
+      [
+        16,
+        15,
+        8
+      ]
+    ],
+    "hf_id": "bert-base-uncased",
+    "condition": "claim",
+    "weighted": true,
+    "seed": 42,
+    "lr": 1e-05
+  },
+  "RoBERTa-base [claim] seed42": {
+    "n": 412,
+    "acc": 0.5049,
+    "macro_f1": 0.4032,
+    "f1_false": 0.5945,
+    "f1_mostly_false": 0.4885,
+    "f1_partly_true": 0.1266,
+    "cm": [
+      [
+        118,
+        95,
+        15
+      ],
+      [
+        40,
+        85,
+        20
+      ],
+      [
+        11,
+        23,
+        5
+      ]
+    ],
+    "hf_id": "roberta-base",
+    "condition": "claim",
+    "weighted": true,
+    "seed": 42,
+    "lr": 2e-05
+  },
+  "BioBERT [claim] seed42": {
+    "n": 412,
+    "acc": 0.5437,
+    "macro_f1": 0.4325,
+    "f1_false": 0.6294,
+    "f1_mostly_false": 0.5015,
+    "f1_partly_true": 0.1667,
+    "cm": [
+      [
+        135,
+        84,
+        9
+      ],
+      [
+        54,
+        84,
+        7
+      ],
+      [
+        12,
+        22,
+        5
+      ]
+    ],
+    "hf_id": "dmis-lab/biobert-base-cased-v1.2",
+    "condition": "claim",
+    "weighted": true,
+    "seed": 42,
+    "lr": 1e-05
+  },
+  "MuRIL [claim] seed42": {
+    "n": 412,
+    "acc": 0.5558,
+    "macro_f1": 0.3716,
+    "f1_false": 0.6748,
+    "f1_mostly_false": 0.4399,
+    "f1_partly_true": 0.0,
+    "cm": [
+      [
+        165,
+        61,
+        2
+      ],
+      [
+        78,
+        64,
+        3
+      ],
+      [
+        18,
+        21,
+        0
+      ]
+    ],
+    "hf_id": "google/muril-base-cased",
+    "condition": "claim",
+    "weighted": true,
+    "seed": 42,
+    "lr": 1e-05
+  },
+  "BERT-base [claim_vanilla] seed42": {
+    "n": 412,
+    "acc": 0.5704,
+    "macro_f1": 0.3843,
+    "f1_false": 0.668,
+    "f1_mostly_false": 0.4848,
+    "f1_partly_true": 0.0,
+    "cm": [
+      [
+        163,
+        65,
+        0
+      ],
+      [
+        73,
+        72,
+        0
+      ],
+      [
+        24,
+        15,
+        0
+      ]
+    ],
+    "hf_id": "bert-base-uncased",
+    "condition": "claim",
+    "weighted": false,
+    "seed": 42,
+    "lr": 1e-05
+  },
+  "RoBERTa-base [claim_vanilla] seed42": {
+    "n": 412,
+    "acc": 0.5777,
+    "macro_f1": 0.3954,
+    "f1_false": 0.6754,
+    "f1_mostly_false": 0.5108,
+    "f1_partly_true": 0.0,
+    "cm": [
+      [
+        155,
+        72,
+        1
+      ],
+      [
+        62,
+        83,
+        0
+      ],
+      [
+        14,
+        25,
+        0
+      ]
+    ],
+    "hf_id": "roberta-base",
+    "condition": "claim",
+    "weighted": false,
+    "seed": 42,
+    "lr": 2e-05
+  },
+  "BioBERT [claim_vanilla] seed42": {
+    "n": 412,
+    "acc": 0.5947,
+    "macro_f1": 0.434,
+    "f1_false": 0.6907,
+    "f1_mostly_false": 0.5161,
+    "f1_partly_true": 0.0952,
+    "cm": [
+      [
+        163,
+        64,
+        1
+      ],
+      [
+        65,
+        80,
+        0
+      ],
+      [
+        16,
+        21,
+        2
+      ]
+    ],
+    "hf_id": "dmis-lab/biobert-base-cased-v1.2",
+    "condition": "claim",
+    "weighted": false,
+    "seed": 42,
+    "lr": 1e-05
+  },
+  "MuRIL [claim_vanilla] seed42": {
+    "n": 412,
+    "acc": 0.5534,
+    "macro_f1": 0.2375,
+    "f1_false": 0.7125,
+    "f1_mostly_false": 0.0,
+    "f1_partly_true": 0.0,
+    "cm": [
+      [
+        228,
+        0,
+        0
+      ],
+      [
+        145,
+        0,
+        0
+      ],
+      [
+        39,
+        0,
+        0
+      ]
+    ],
+    "hf_id": "google/muril-base-cased",
+    "condition": "claim",
+    "weighted": false,
+    "seed": 42,
+    "lr": 1e-05
+  },
+  "BERT-base [claim_evid] seed42": {
+    "n": 412,
+    "acc": 0.6165,
+    "macro_f1": 0.5721,
+    "f1_false": 0.6893,
+    "f1_mostly_false": 0.5636,
+    "f1_partly_true": 0.4634,
+    "cm": [
+      [
+        142,
+        77,
+        9
+      ],
+      [
+        37,
+        93,
+        15
+      ],
+      [
+        5,
+        15,
+        19
+      ]
+    ],
+    "hf_id": "bert-base-uncased",
+    "condition": "claim_evid",
+    "weighted": true,
+    "seed": 42,
+    "lr": 1e-05
+  },
+  "RoBERTa-base [claim_evid] seed42": {
+    "n": 412,
+    "acc": 0.6845,
+    "macro_f1": 0.5768,
+    "f1_false": 0.7817,
+    "f1_mostly_false": 0.6039,
+    "f1_partly_true": 0.3448,
+    "cm": [
+      [
+        179,
+        47,
+        2
+      ],
+      [
+        45,
+        93,
+        7
+      ],
+      [
+        6,
+        23,
+        10
+      ]
+    ],
+    "hf_id": "roberta-base",
+    "condition": "claim_evid",
+    "weighted": true,
+    "seed": 42,
+    "lr": 2e-05
+  },
+  "BioBERT [claim_evid] seed42": {
+    "n": 412,
+    "acc": 0.6117,
+    "macro_f1": 0.5512,
+    "f1_false": 0.6963,
+    "f1_mostly_false": 0.5472,
+    "f1_partly_true": 0.4103,
+    "cm": [
+      [
+        149,
+        69,
+        10
+      ],
+      [
+        45,
+        87,
+        13
+      ],
+      [
+        6,
+        17,
+        16
+      ]
+    ],
+    "hf_id": "dmis-lab/biobert-base-cased-v1.2",
+    "condition": "claim_evid",
+    "weighted": true,
+    "seed": 42,
+    "lr": 1e-05
+  },
+  "MuRIL [claim_evid] seed42": {
+    "n": 412,
+    "acc": 0.5704,
+    "macro_f1": 0.3978,
+    "f1_false": 0.6471,
+    "f1_mostly_false": 0.5464,
+    "f1_partly_true": 0.0,
+    "cm": [
+      [
+        132,
+        96,
+        0
+      ],
+      [
+        42,
+        103,
+        0
+      ],
+      [
+        6,
+        33,
+        0
+      ]
+    ],
+    "hf_id": "google/muril-base-cased",
+    "condition": "claim_evid",
+    "weighted": true,
+    "seed": 42,
+    "lr": 1e-05
+  },
+  "Keyword probe [explanation]": {
+    "n": 412,
+    "acc": 0.4345,
+    "macro_f1": 0.2892,
+    "f1_false": 0.6069,
+    "f1_mostly_false": 0.175,
+    "f1_partly_true": 0.0857,
+    "cm": [
+      [
+        159,
+        0,
+        69
+      ],
+      [
+        105,
+        14,
+        26
+      ],
+      [
+        32,
+        1,
+        6
+      ]
+    ]
+  },
+  "Keyword probe [quick_take]": {
+    "n": 412,
+    "acc": 0.9684,
+    "macro_f1": 0.9433,
+    "f1_false": 0.9718,
+    "f1_mostly_false": 0.9895,
+    "f1_partly_true": 0.8684,
+    "cm": [
+      [
+        224,
+        0,
+        4
+      ],
+      [
+        3,
+        142,
+        0
+      ],
+      [
+        6,
+        0,
+        33
+      ]
+    ]
+  },
+  "BERT-base [evid_only] seed42": {
+    "n": 412,
+    "acc": 0.5655,
+    "macro_f1": 0.4934,
+    "f1_false": 0.653,
+    "f1_mostly_false": 0.5311,
+    "f1_partly_true": 0.2963,
+    "cm": [
+      [
+        127,
+        91,
+        10
+      ],
+      [
+        31,
+        94,
+        20
+      ],
+      [
+        3,
+        24,
+        12
+      ]
+    ],
+    "hf_id": "bert-base-uncased",
+    "condition": "evid_only",
+    "weighted": true,
+    "seed": 42,
+    "lr": 1e-05
+  },
+  "RoBERTa-base [evid_only] seed42": {
+    "n": 412,
+    "acc": 0.6796,
+    "macro_f1": 0.5652,
+    "f1_false": 0.774,
+    "f1_mostly_false": 0.6164,
+    "f1_partly_true": 0.3051,
+    "cm": [
+      [
+        173,
+        51,
+        4
+      ],
+      [
+        40,
+        98,
+        7
+      ],
+      [
+        6,
+        24,
+        9
+      ]
+    ],
+    "hf_id": "roberta-base",
+    "condition": "evid_only",
+    "weighted": true,
+    "seed": 42,
+    "lr": 2e-05
+  },
+  "BERT-base [claim] seed43": {
+    "n": 412,
+    "acc": 0.4854,
+    "macro_f1": 0.3991,
+    "f1_false": 0.5976,
+    "f1_mostly_false": 0.4444,
+    "f1_partly_true": 0.1553,
+    "cm": [
+      [
+        124,
+        75,
+        29
+      ],
+      [
+        50,
+        68,
+        27
+      ],
+      [
+        13,
+        18,
+        8
+      ]
+    ],
+    "hf_id": "bert-base-uncased",
+    "condition": "claim",
+    "weighted": true,
+    "seed": 43,
+    "lr": 1e-05
+  },
+  "BERT-base [claim] seed44": {
+    "n": 412,
+    "acc": 0.4854,
+    "macro_f1": 0.3885,
+    "f1_false": 0.5907,
+    "f1_mostly_false": 0.4337,
+    "f1_partly_true": 0.1412,
+    "cm": [
+      [
+        127,
+        79,
+        22
+      ],
+      [
+        60,
+        67,
+        18
+      ],
+      [
+        15,
+        18,
+        6
+      ]
+    ],
+    "hf_id": "bert-base-uncased",
+    "condition": "claim",
+    "weighted": true,
+    "seed": 44,
+    "lr": 1e-05
+  },
+  "BERT-base [claim_evid] seed43": {
+    "n": 412,
+    "acc": 0.6311,
+    "macro_f1": 0.5671,
+    "f1_false": 0.7214,
+    "f1_mostly_false": 0.5284,
+    "f1_partly_true": 0.4516,
+    "cm": [
+      [
+        167,
+        59,
+        2
+      ],
+      [
+        59,
+        79,
+        7
+      ],
+      [
+        9,
+        16,
+        14
+      ]
+    ],
+    "hf_id": "bert-base-uncased",
+    "condition": "claim_evid",
+    "weighted": true,
+    "seed": 43,
+    "lr": 1e-05
+  },
+  "BERT-base [claim_evid] seed44": {
+    "n": 412,
+    "acc": 0.6019,
+    "macro_f1": 0.4982,
+    "f1_false": 0.7012,
+    "f1_mostly_false": 0.5433,
+    "f1_partly_true": 0.25,
+    "cm": [
+      [
+        149,
+        73,
+        6
+      ],
+      [
+        43,
+        91,
+        11
+      ],
+      [
+        5,
+        26,
+        8
+      ]
+    ],
+    "hf_id": "bert-base-uncased",
+    "condition": "claim_evid",
+    "weighted": true,
+    "seed": 44,
+    "lr": 1e-05
+  },
+  "RoBERTa-base [claim_evid] seed43": {
+    "n": 412,
+    "acc": 0.6602,
+    "macro_f1": 0.5336,
+    "f1_false": 0.7731,
+    "f1_mostly_false": 0.5517,
+    "f1_partly_true": 0.2759,
+    "cm": [
+      [
+        184,
+        41,
+        3
+      ],
+      [
+        57,
+        80,
+        8
+      ],
+      [
+        7,
+        24,
+        8
+      ]
+    ],
+    "hf_id": "roberta-base",
+    "condition": "claim_evid",
+    "weighted": true,
+    "seed": 43,
+    "lr": 2e-05
+  },
+  "RoBERTa-base [claim_evid] seed44": {
+    "n": 412,
+    "acc": 0.6893,
+    "macro_f1": 0.5657,
+    "f1_false": 0.7859,
+    "f1_mostly_false": 0.6203,
+    "f1_partly_true": 0.2909,
+    "cm": [
+      [
+        178,
+        46,
+        4
+      ],
+      [
+        43,
+        98,
+        4
+      ],
+      [
+        4,
+        27,
+        8
+      ]
+    ],
+    "hf_id": "roberta-base",
+    "condition": "claim_evid",
+    "weighted": true,
+    "seed": 44,
+    "lr": 2e-05
+  }
+}
